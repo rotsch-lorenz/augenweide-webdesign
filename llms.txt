@@ -8,16 +8,18 @@ Alle Preise zuzüglich Mehrwertsteuer. 12 Monate fest, danach monatlich kündbar
 ## Leistungen
 
 - [Website mit Pflege](https://augenweide-webdesign.de/leistungen/website-mit-pflege/): Ihre Website unter Ihrer eigenen Adresse, gut lesbar am Handy. Preis: 99 € im Monat, einmalig 399 €.
-- [Seite für Bewerber](https://augenweide-webdesign.de/leistungen/seite-fuer-bewerber/): Ihre offenen Stellen auf Ihrer eigenen Seite, mit einem kurzen Bewerbungsformular. Preis: im Website-Preis.
+- [Zusatzseite](https://augenweide-webdesign.de/leistungen/zusatzseite/): Eine weitere Seite für eine Leistung, die gesucht wird, oder für einen zweiten Standort. Preis: 199 € je Seite, einmalig.
+- [Seite für Bewerber](https://augenweide-webdesign.de/leistungen/seite-fuer-bewerber/): Ihre offenen Stellen auf Ihrer eigenen Seite, mit einem kurzen Bewerbungsformular. Preis: im Website-Preis, als eine Ihrer fünf Seiten. Als weitere Seite 199 € einmalig.
 - [Mehrsprachigkeit](https://augenweide-webdesign.de/leistungen/mehrsprachigkeit/): Ihre Seite in einer zweiten Sprache, nach Maß gebaut. Preis nach Gespräch.
 - [Google-Profilpflege](https://augenweide-webdesign.de/leistungen/google-profilpflege/): Ihr Eintrag bei Google und in Google Maps stimmt, auch an Feiertagen, und zeigt Neues. Preis: Einrichtung enthalten. Laufende Pflege 79 € im Monat. Nur das Profil ohne Website: 290 € einmalig.
 - [Suchmaschinenoptimierung](https://augenweide-webdesign.de/leistungen/suchmaschinenoptimierung/): Google kann lesen, was Sie anbieten, und es bei der passenden Suche zeigen. Preis: Die Grundlage ist in jeder Website enthalten. Laufende Betreuung: ab 199 € im Monat.
 - [Optimierung für KI-Suchen](https://augenweide-webdesign.de/leistungen/optimierung-fuer-ki-suchen/): ChatGPT und die KI-Antworten von Google können Fragen zu Ihrem Betrieb aus Ihrer Seite beantworten. Preis: in jeder Website enthalten.
 - [Einträge in Verzeichnissen](https://augenweide-webdesign.de/leistungen/eintraege-in-verzeichnissen/): Name, Anschrift und Zeiten stimmen überall. Preis: ab 99 € einmalig. Laufende Kontrolle: Preis nach Gespräch.
-- [Google-Bewertungen](https://augenweide-webdesign.de/leistungen/google-bewertungen/): Mehr echte Bewertungen, so wie Google es erlaubt. Preis: im Monatspreis.
+- [Google-Bewertungen](https://augenweide-webdesign.de/leistungen/google-bewertungen/): Mehr echte Bewertungen, so wie Google es erlaubt. Preis: in jeder Website enthalten. Ohne Website: in der Einrichtung Ihres Google-Profils enthalten (290 € einmalig).
 - [Anzeigen auf Instagram und Facebook](https://augenweide-webdesign.de/leistungen/anzeigen-auf-instagram-und-facebook/): Wir schalten Anzeigen im Umkreis Ihres Betriebs und zeigen Ihnen, was sie gekostet und gebracht haben. Preis: Einrichtung ab 199 €, Honorar ab 290 € im Monat.
 - [Kundenverwaltung nach Maß](https://augenweide-webdesign.de/leistungen/kundenverwaltung-nach-mass/): Ihre Gäste oder Kunden, ihre Anfragen und Termine an einem Ort, zugeschnitten auf Ihren Betrieb. Den Preis nennen wir nach einem kurzen Gespräch.
 - [Datenaufbereitung](https://augenweide-webdesign.de/leistungen/datenaufbereitung/): Listen, mit denen Sie arbeiten können. Preis nach Gespräch, nach Umfang.
+- [Eigene Mail-Adresse](https://augenweide-webdesign.de/leistungen/eigene-mail-adresse/): Ihre Mail-Adresse endet auf den Namen Ihres Betriebs. Preis: 149 € einmalig.
 - [Digitalberatung](https://augenweide-webdesign.de/leistungen/digitalberatung/): Ein Gespräch mit einer festen Person: was sich für Ihren Betrieb lohnt, was nicht, und in welcher Reihenfolge. Preis: ab 99 € einmalig.
 
 ## Seiten
