@@ -1,5 +1,6 @@
 User-Agent: *
 Allow: /
+Disallow: /muster/
 
 User-Agent: GPTBot
 User-Agent: OAI-SearchBot
@@ -16,5 +17,6 @@ User-Agent: DuckAssistBot
 User-Agent: MistralAI-User
 User-Agent: CCBot
 Allow: /
+Disallow: /muster/
 
 Sitemap: https://augenweide-webdesign.de/sitemap.xml
