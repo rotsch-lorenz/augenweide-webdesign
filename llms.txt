@@ -44,6 +44,7 @@ Sprache: Deutsch. Gebiet: Norddeutschland. Kontakt: kontakt@augenweide-webdesign
 - [So arbeiten wir](https://augenweide-webdesign.de/so-arbeiten-wir/): Fünf Schritte von der Vorschau Ihrer Startseite bis zur laufenden Pflege.
 - [Restaurant und Café](https://augenweide-webdesign.de/restaurant/): Eine Seite für Ihr Restaurant, die wir bauen und pflegen. Mit Mittagstisch, Zeiten, die stimmen, und Bewertungen, die Google gelten lässt.
 - [Internetseiten für mittelständische Unternehmen](https://augenweide-webdesign.de/fuer-unternehmen/): Bestandsaufnahme, Bau und Betreuung für Unternehmen.
+- [Wer wir sind](https://augenweide-webdesign.de/wer-wir-sind/): Wer hinter Augenweide Webdesign steht: zwei Gründer, ihre Aufgaben und woran wir uns halten.
 - [Kontakt](https://augenweide-webdesign.de/kontakt/): Anrufen, schreiben oder einen Rückruf vereinbaren.
 
 ## Optional
