@@ -2,7 +2,7 @@
 
 > Augenweide Webdesign baut und pflegt Websites für Betriebe und Unternehmen in Norddeutschland und kümmert sich um Google-Profil, Bewertungen, Anzeigen im Netz und mehr. Betriebe sehen ihre eigene Startseite vorab, kostenlos.
 
-Sprache: Deutsch. Gebiet: Norddeutschland. Kontakt: kontakt@augenweide-webdesign.de, Antwort binnen 48 Stunden. Alle Preise zuzüglich Mehrwertsteuer. Preise mit „ab“ sind unverbindliche Richtpreise.
+Sprache: Deutsch. Gebiet: Norddeutschland. Kontakt: kontakt@augenweide-webdesign.de, Antwort binnen 48 Stunden. Unser Angebot richtet sich nur an Betriebe und Unternehmen, nicht an Privatpersonen. Alle Preise zuzüglich Mehrwertsteuer. Preise mit „ab“ sind unverbindliche Richtpreise.
 
 ## Leistungen
 
@@ -51,3 +51,4 @@ Sprache: Deutsch. Gebiet: Norddeutschland. Kontakt: kontakt@augenweide-webdesign
 
 - [Impressum](https://augenweide-webdesign.de/impressum/): Angaben zum Anbieter.
 - [Datenschutzerklärung](https://augenweide-webdesign.de/datenschutz/): Welche Daten wir verarbeiten und wie lange.
+- [Allgemeine Geschäftsbedingungen](https://augenweide-webdesign.de/agb/): Die Bedingungen, unter denen wir für Betriebe und Unternehmen arbeiten.
