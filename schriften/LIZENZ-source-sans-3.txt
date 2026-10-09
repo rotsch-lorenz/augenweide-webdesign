@@ -91,3 +91,6 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
+
+
+Hinweis zu den Schriftdateien dieser Seite: TextSchrift-Regular-Latin.woff2 und TextSchrift-Semibold-Latin.woff2 sind verkleinerte Fassungen von Source Sans 3 (nur lateinische Zeichen, Latin-1 und Latin Erweitert-A, dazu Satzzeichen, Euro und Pfeile). Weil sie verändert sind, tragen sie nicht mehr den geschützten Namen „Source“, sondern den Familiennamen „Augenweide Text“. Urheberrechtshinweis und Lizenz (SIL Open Font License 1.1) stehen unverändert in den Dateien und oben.

@@ -43,6 +43,9 @@ Sprache: Deutsch. Gebiet: Norddeutschland. Kontakt: kontakt@augenweide-webdesign
 - [Musterseiten](https://augenweide-webdesign.de/beispiele/): So kann Ihre Seite aussehen. Die Betriebe darauf sind erfunden.
 - [So arbeiten wir](https://augenweide-webdesign.de/so-arbeiten-wir/): Fünf Schritte von der Vorschau Ihrer ganzen neuen Website bis zur laufenden Pflege.
 - [Restaurant und Café](https://augenweide-webdesign.de/restaurant/): Eine Seite für Ihr Restaurant, die wir bauen und pflegen. Mit Mittagstisch, Zeiten, die stimmen, und Bewertungen, die Google gelten lässt.
+- [Friseur und Kosmetik](https://augenweide-webdesign.de/friseur/): Eine Seite für Ihren Salon, die wir bauen und pflegen. Mit Preisliste als Text, Ihrem Team, Zeiten, die stimmen, und einem Google-Profil, das zur Seite passt.
+- [Autowerkstatt](https://augenweide-webdesign.de/kfz/): Eine Seite für Ihre Werkstatt, die wir bauen und pflegen. Mit Leistungen und Preisen als Text, Zeiten, die stimmen, und einem Google-Profil, das zur Seite passt.
+- [Handwerk](https://augenweide-webdesign.de/handwerk/): Eine Seite für Ihren Handwerksbetrieb, die wir bauen und pflegen. Mit Leistungen und Einsatzgebiet als Text, Notdienst und Zeiten, die stimmen.
 - [Internetseiten für mittelständische Unternehmen](https://augenweide-webdesign.de/fuer-unternehmen/): Bestandsaufnahme, Bau und Betreuung für Unternehmen.
 - [Wer wir sind](https://augenweide-webdesign.de/wer-wir-sind/): Wer hinter Augenweide Webdesign steht: zwei Gründer, ihre Aufgaben und woran wir uns halten.
 - [Kontakt](https://augenweide-webdesign.de/kontakt/): Anrufen, schreiben oder einen Rückruf vereinbaren.
