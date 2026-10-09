@@ -37,15 +37,17 @@ Sprache: Deutsch. Gebiet: Norddeutschland. Kontakt: kontakt@augenweide-webdesign
 - [SEO oder GEO: Was ist für Ihren Betrieb wichtiger?](https://augenweide-webdesign.de/ratgeber/seo-oder-geo-was-ist-wichtiger/): Was Google zu SEO, AEO und GEO schreibt und was ein Betrieb vor Ort daraus macht.
 - [Brauche ich eine Website, wenn ich ein Google-Profil habe?](https://augenweide-webdesign.de/ratgeber/website-oder-google-profil/): Was ein Profil kann, wo es an Grenzen kommt und wann eine eigene Website dazukommt.
 - [Meine Öffnungszeiten bei Google stimmen nicht: Wer darf sie ändern?](https://augenweide-webdesign.de/ratgeber/oeffnungszeiten-bei-google-falsch/): Wer Änderungen vorschlagen darf, was Google daraus macht und wie Sie Zeiten selbst pflegen.
+- [Website erstellen lassen: Ablauf, Kosten und worauf Sie achten](https://augenweide-webdesign.de/ratgeber/website-erstellen-lassen/): Was passiert, wenn Sie eine Website für Ihren Betrieb erstellen lassen: die Schritte von der Anfrage bis zur Pflege, was sie kostet und worauf Sie vor der Zusage achten.
 
 ## Weitere Seiten
 
 - [Musterseiten](https://augenweide-webdesign.de/beispiele/): So kann Ihre Seite aussehen. Die Betriebe darauf sind erfunden.
 - [So arbeiten wir](https://augenweide-webdesign.de/so-arbeiten-wir/): Fünf Schritte von der Vorschau Ihrer ganzen neuen Website bis zur laufenden Pflege.
-- [Restaurant und Café](https://augenweide-webdesign.de/restaurant/): Eine Seite für Ihr Restaurant, die wir bauen und pflegen. Mit Mittagstisch, Zeiten, die stimmen, und Bewertungen, die Google gelten lässt.
-- [Friseur und Kosmetik](https://augenweide-webdesign.de/friseur/): Eine Seite für Ihren Salon, die wir bauen und pflegen. Mit Preisliste als Text, Ihrem Team, Zeiten, die stimmen, und einem Google-Profil, das zur Seite passt.
+- [Restaurant und Café](https://augenweide-webdesign.de/restaurant/): Eine Seite für Ihr Restaurant oder Café, die wir bauen und pflegen. Mit Mittagstisch, Zeiten, die stimmen, und Bewertungen, die Google gelten lässt. Sie sehen die Seite, bevor Sie etwas zahlen.
+- [Friseur und Kosmetik](https://augenweide-webdesign.de/friseur/): Eine Homepage für Ihren Salon, die wir bauen und pflegen. Mit Preisliste als Text, Termin anfragen, Ihrem Team und Zeiten, die stimmen. Sie sehen die Seite, bevor Sie etwas zahlen.
 - [Autowerkstatt](https://augenweide-webdesign.de/kfz/): Eine Seite für Ihre Werkstatt, die wir bauen und pflegen. Mit Leistungen und Preisen als Text, Zeiten, die stimmen, und einem Google-Profil, das zur Seite passt.
-- [Handwerk](https://augenweide-webdesign.de/handwerk/): Eine Seite für Ihren Handwerksbetrieb, die wir bauen und pflegen. Mit Leistungen und Einsatzgebiet als Text, Notdienst und Zeiten, die stimmen.
+- [Handwerk](https://augenweide-webdesign.de/handwerk/): Eine Homepage für Ihren Handwerksbetrieb, die wir bauen und pflegen. Mit Leistungen und Einsatzgebiet als Text, Anfrage mit Anlass, Notdienst und Zeiten, die stimmen. Sie sehen die Seite, bevor Sie etwas zahlen.
+- [Webdesign für Betriebe in Stade und Umgebung](https://augenweide-webdesign.de/webdesign-stade/): Websites für Betriebe in Stade, Buxtehude, im Landkreis Stade und in Hamburg: Wir bauen und pflegen Ihre Seite per Telefon und online. Sie sehen sie, bevor Sie etwas zahlen.
 - [Internetseiten für mittelständische Unternehmen](https://augenweide-webdesign.de/fuer-unternehmen/): Bestandsaufnahme, Bau und Betreuung für Unternehmen.
 - [Wer wir sind](https://augenweide-webdesign.de/wer-wir-sind/): Wer hinter Augenweide Webdesign steht: zwei Gründer, ihre Aufgaben und woran wir uns halten.
 - [Kontakt](https://augenweide-webdesign.de/kontakt/): Anrufen, schreiben oder einen Rückruf vereinbaren.
