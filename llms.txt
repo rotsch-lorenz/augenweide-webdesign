@@ -2,7 +2,7 @@
 
 > Augenweide Webdesign baut und pflegt Websites für Betriebe und Unternehmen in Norddeutschland und kümmert sich um Google-Profil, Bewertungen, Anzeigen im Netz und mehr. Wir bauen die ganze neue Website vorab als kostenlose Vorschau; beauftragt wird sie erst, wenn sie gefällt.
 
-Sprache: Deutsch. Gebiet: Norddeutschland. Kontakt: kontakt@augenweide-webdesign.de, Antwort binnen 48 Stunden. Unser Angebot richtet sich nur an Betriebe und Unternehmen, nicht an Privatpersonen. Alle Preise zuzüglich Mehrwertsteuer. Preise mit „ab“ sind unverbindliche Richtpreise.
+Sprache: Deutsch. Gebiet: Norddeutschland. Kontakt: kontakt@augenweide-webdesign.de, Antwort binnen 48 Stunden. Unser Angebot richtet sich nur an Betriebe und Unternehmen, nicht an Privatpersonen. Alle Preise zuzüglich Umsatzsteuer. Preise mit „ab“ sind unverbindliche Richtpreise.
 
 ## Leistungen
 
@@ -23,7 +23,7 @@ Sprache: Deutsch. Gebiet: Norddeutschland. Kontakt: kontakt@augenweide-webdesign
 
 ## Bereiche
 
-- [Website und Buchung](https://augenweide-webdesign.de/bereiche/website-und-buchung/): Ihre Seite, gebaut und gepflegt.
+- [Website und Pflege](https://augenweide-webdesign.de/bereiche/website-und-buchung/): Ihre Seite, gebaut und gepflegt.
 - [Reichweite und Sichtbarkeit](https://augenweide-webdesign.de/bereiche/reichweite-und-sichtbarkeit/): Damit man Sie findet.
 - [Verwaltung und Daten](https://augenweide-webdesign.de/bereiche/verwaltung-und-daten/): Ordnung in Anfragen und Listen.
 
